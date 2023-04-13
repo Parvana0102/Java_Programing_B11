@@ -1,8 +1,7 @@
-package Day15_string.Day18_loops;
+package Day17_Loops;
 
 public class Syllables {
     public static void main(String[] args) {
-
         String word = "Na-za-kat";
         int count = 0;
 

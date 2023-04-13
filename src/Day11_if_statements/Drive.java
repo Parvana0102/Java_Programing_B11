@@ -1,4 +1,0 @@
-package Day11_if_statements;
-
-public class Drive {
-}
