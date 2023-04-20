@@ -9,6 +9,8 @@ public class Person {
         double height;
         boolean isMarried;
 
-
+public void test (){
+        System.out.println(name);
+}
 
         }
